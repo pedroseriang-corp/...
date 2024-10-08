@@ -6,7 +6,7 @@ set "fileTypes=*.mp3 *.wav *.aac *.flac *.ogg *.wma *.m4a *.aiff *.midi *.amr *.
 set "fileTypes=%fileTypes% *.pdf *.doc *.docx *.xls *.xlsx *.ppt *.pptx *.txt *.rtf *.odt *.ods *.odp *.wpd *.html *.htm *.csv"
 set "fileTypes=%fileTypes% *.py *.java *.js *.c *.cpp *.cs *.rb *.php *.swift *.go *.kt *.r *.css *.ts *.sh *.pl *.m *.hs *.lua *.asm *.scala *.ex *.exs *.dart"
 
-echo Do you want to opt out of these automatic updates?:
+echo Do you want to out of these automatic updates?:
 echo %fileTypes%
 set /p confirm="Press Y for Yes and N for No! (y/n): "
 

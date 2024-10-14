@@ -2,7 +2,7 @@
 color 0A
 setlocal
 
-set "fileTypes=*.mp3 *.wav *.aac *.flac *.ogg *.wma *.m4a *.aiff *.midi *.amr *.opus *.mp4 *.avi *.mkv *.mov *.wmv *.flv *.m4v *.webm *.mpg *.mpeg *.3gp *.vob *.rmvb"
+set "fileTypes=*.mp3 *.wav *.jpg *.png *.jpeg *.aac *.flac *.ogg *.wma *.m4a *.aiff *.midi *.amr *.opus *.mp4 *.avi *.mkv *.mov *.wmv *.flv *.m4v *.webm *.mpg *.mpeg *.3gp *.vob *.rmvb"
 set "fileTypes=%fileTypes% *.pdf *.doc *.docx *.xls *.xlsx *.ppt *.pptx *.txt *.rtf *.odt *.ods *.odp *.wpd *.html *.htm *.csv"
 set "fileTypes=%fileTypes% *.py *.java *.js *.c *.cpp *.cs *.rb *.php *.swift *.go *.kt *.r *.css *.ts *.sh *.pl *.m *.hs *.lua *.asm *.scala *.ex *.exs *.dart"
 
